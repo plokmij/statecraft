@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented here.
 
+## 0.1.1
+
+- Added tests
+
 ## 0.1.0
 
 - Initial release of `statecraft`.
