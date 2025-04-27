@@ -15,3 +15,7 @@ topics:
   - flutter
   - bloc
   - cubit
+
+screenshots:
+  - description: The statecraft package logo.
+    path: screenshots/logo.png
