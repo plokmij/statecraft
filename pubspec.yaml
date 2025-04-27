@@ -1,5 +1,5 @@
 name: statecraft
-description: A starting point for Dart libraries or applications.
+description: Elegant state handling for Flutter and flutter_bloc. Build smooth async, form, list, and paginated states with ease.
 version: 0.1.0
 repository: https://github.com/plokmij/statecraft
 
