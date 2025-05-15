@@ -38,14 +38,13 @@ dependencies:
 
 ## ✨ Philosophy
 
-Handling asynchronous states in Flutter is a repetitive task.  
-Typically you create:
+Handling asynchronous states in Flutter is a repetitive task.Typically you create:
 
 - Loading State
 - Success State
 - Error State
 
-for every BLoC manually.  
+for every BLoC manually.
 This leads to **boilerplate** and **messy switch-cases**.
 
 `statecraft` solves this by providing **unified AsyncState<T> and FormState<T>** you can reuse everywhere.
@@ -226,4 +225,4 @@ MIT License — free to use for personal or commercial projects.
 
 ---
 
-Made with ❤️ for Flutter devs who love clean architecture.
+Made with ❤️ for Flutter devs who love BLoC.
