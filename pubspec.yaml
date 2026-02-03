@@ -1,6 +1,6 @@
 name: statecraft
 description: Elegant state handling for Flutter and flutter_bloc. Build smooth async, form, list, and paginated states with ease.
-version: 0.1.2
+version: 0.1.3
 repository: https://github.com/plokmij/statecraft
 
 environment:
